@@ -43,7 +43,7 @@ hr {
 
 header {
   background-color: #999;
-  background-image: url(img/background.jpg);
+  background-image: url(//source.unsplash.com/1600x900/?coding);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
@@ -107,16 +107,16 @@ footer hr {
 
 @media screen and (min-width: 50em) {
   header {
-    height: 700px;
+    height: 300px;
   }
   
   header h1 {
     font-size: 3.2em;
-    top: 540px;
+    top: 140px;
   }
   
   header p {
-    top: 530px;
+    top: 130px;
     font-size: 1.5em;
   }
 }
